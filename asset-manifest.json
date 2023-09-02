@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Invate/static/css/main.469a6a45.css",
-    "main.js": "/Invate/static/js/main.0ced01ab.js",
-    "index.html": "/Invate/index.html",
-    "main.469a6a45.css.map": "/Invate/static/css/main.469a6a45.css.map",
-    "main.0ced01ab.js.map": "/Invate/static/js/main.0ced01ab.js.map"
+    "main.css": "/static/css/main.469a6a45.css",
+    "main.js": "/static/js/main.a77abfad.js",
+    "index.html": "/index.html",
+    "main.469a6a45.css.map": "/static/css/main.469a6a45.css.map",
+    "main.a77abfad.js.map": "/static/js/main.a77abfad.js.map"
   },
   "entrypoints": [
     "static/css/main.469a6a45.css",
-    "static/js/main.0ced01ab.js"
+    "static/js/main.a77abfad.js"
   ]
 }
